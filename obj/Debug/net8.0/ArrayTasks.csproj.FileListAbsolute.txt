@@ -1,0 +1,15 @@
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.exe
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.deps.json
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.runtimeconfig.json
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.dll
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\bin\Debug\net8.0\ArrayTasks.pdb
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.AssemblyInfoInputs.cache
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.AssemblyInfo.cs
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.csproj.CoreCompileInputs.cache
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.sourcelink.json
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.dll
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\refint\ArrayTasks.dll
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.pdb
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ArrayTasks.genruntimeconfig.cache
+C:\Users\Rinat_PC\source\repos\ArrayTasks\ArrayTasks\obj\Debug\net8.0\ref\ArrayTasks.dll
